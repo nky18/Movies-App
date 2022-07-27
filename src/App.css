@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -57,6 +58,7 @@
 .banner-image{
   width: 99%;
   height: 70vh;
+  
 }
 .banner-text{
   position: absolute;
